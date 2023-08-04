@@ -1,4 +1,2 @@
-# impressingCrush
-link mobile.js instead of script.js in index.html to work in mobile.
+# Drag-paper-to-read
 
-Thanks and Happy Coding.
